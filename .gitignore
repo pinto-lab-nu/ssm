@@ -116,3 +116,4 @@ notebooks/*.html
 .vscode
 
 .DS_Store
+*.code-workspace
